@@ -2,7 +2,9 @@
 
 Author: Sean Themar
 1. Introduction:
-dbbackup is a script that creates .csv backup files of a MS SQL Server Database's tables.  The script creates a folder with the current date and creates a .csv for each table in the database.  If the folder already exists, the files are overwritten.
+dbbackup is a script that creates .csv backup files of a MS SQL Server Database's tables.  
+The script creates a folder with the current date and creates a .csv for each table in the 
+database.  If the folder already exists, the files are overwritten.
 
 2. Prerequisites:
   -Python 3.X
